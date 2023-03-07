@@ -52,7 +52,7 @@ Using CSS flexbox and CSS grid and responsive web layout
 ## Author
 
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Happy-Lama](https://www.frontendmentor.io/profile/Happy-Lama)
 
 
 
